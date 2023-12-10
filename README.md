@@ -13,5 +13,7 @@
 
 
 - ⚡ Fun fact: I play [Chess](https://www.chess.com/member/deep3072)♟️ in my free time
+- <img src="https://komarev.com/ghpvc/?username=deep3072&label=Views&color=blue&style=plastic" alt="deep3072" />
+
 
 
