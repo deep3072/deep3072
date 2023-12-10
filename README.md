@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Deep Shah 👋
 
-<!--
-**deep3072/deep3072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I’m currently pursuing Masters in Computer Science at Purdue University Fort Wayne
+- 🌱 I’m currently learning Django framework🌐
+- 💬 Ask me about Data Structures, Algorithms and Competitive Programming
 
-Here are some ideas to get you started:
+- 🚀 Find me:<p align="left"> <a href="https://www.leetcode.com/deep3072" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="deep3072" height="30" width="40" /></a><a href="https://codeforces.com/profile/deep3072" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="deep3072" height="30" width="40" /></a><a href="https://www.codechef.com/users/deep3072" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="deep3072" height="30" width="40" /></a><a href="https://linkedin.com/in/deep3072" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="deep3072" height="30" width="40" /></a></p> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎯 LeetCode Stats:
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/deep3072?theme=dark&font=Baloo%202&ext=contest)
+
+- ⚡ Fun fact: I play [Chess](https://www.chess.com/member/deep3072)♟️ in my free time
+
+
