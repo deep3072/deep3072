@@ -9,7 +9,8 @@
 
 - 🎯 LeetCode Stats:
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/deep3072?theme=dark&font=Baloo%202&ext=contest)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/deep3072?theme=dark&font=Baloo%202&ext=contest)](https://www.leetcode.com/deep3072)
+
 
 - ⚡ Fun fact: I play [Chess](https://www.chess.com/member/deep3072)♟️ in my free time
 
